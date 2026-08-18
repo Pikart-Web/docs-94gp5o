@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-76yhrw.indocuan.space/sitemap.xml
